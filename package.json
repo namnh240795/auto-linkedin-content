@@ -1,0 +1,15 @@
+{
+  "name": "videogenerator",
+  "version": "1.0.0",
+  "description": "This project uses the Z.AI SDK and CogVideoX model to generate educational videos teaching children about addition (plus) and subtraction (minus) operators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@executeautomation/playwright-mcp-server": "^1.0.12"
+  }
+}
